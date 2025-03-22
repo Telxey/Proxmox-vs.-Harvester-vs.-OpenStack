@@ -40,7 +40,7 @@ A detailed comparison of three infrastructure solutions for **HIPAA-compliant me
 | **Factor**             | <img src="https://github.com/Telxey/Proxmox/assets/131807761/909846c0-fdbb-43b4-9ee5-0f938eed40ac" width="130" height="130"><br> | <img src="https://avatars.githubusercontent.com/u/79673333?v=4" width="80"><br> | <img src="https://github.com/user-attachments/assets/d7c72637-5ce8-4069-a5c3-6d38a93cdf89" width="100"><br> |
 |------------------------|----------------------------------------------|----------------------------------------------|--------------------------------------------|
 | **Licensing**           | $15K/month (subscription)                   | Free                                         | Free                                       |
-| **Support Cost**        | Included                                    | $1.5K/node/year (Rancher)                   | $3K+/node/year (Red Hat/Canonical)        |
+| **Support Cost**        | Included                                    | $1.5K/node/year (Rancher) Optional No required                  | $3K+/node/year (Red Hat/Canonical) Optional No required        |
 | **Admin Overhead**      | Low (2–3 FTEs)                              | Moderate (3–4 FTEs)                         | High (5–6 FTEs)                           |
 ---
 
